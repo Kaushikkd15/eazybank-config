@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related production APIs "
+  message: "Hey, Welcome to EazyBank loans related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "2b573bcad8af1661fb8b3839cb7ffab825ceb7f513d9102fe577ef8958fa5db662c7796950ba74c5924c9ca07c0ac628"
